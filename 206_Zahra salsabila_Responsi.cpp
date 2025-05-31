@@ -151,7 +151,7 @@ class Marketplace {
 				cout << "Pilihan\n";
 				cin >> pilih;
 				
-				switc (pilih) {
+				switch (pilih) {
 					case 1: cout << "Berhasil Tambah Saldo\n"; break;
 					case 2: tambahBarang; break;
 					case 3: hapusBarang; break;
