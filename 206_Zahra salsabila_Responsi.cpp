@@ -47,6 +47,7 @@ class Marketplace {
 			cin >> b.harga;
 			cout << "Masukkan jumlah barang: ";
 			cin >> b.jumlah;
+			keranjang.push_back();
 			cout << "Anda berhasil menambahkan barang\n";
 		}
 		
