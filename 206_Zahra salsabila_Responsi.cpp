@@ -1,4 +1,6 @@
-//Nama : z
+//Nama : Zahra Salsabila
+//NIM	: 2400018206
+//Kode Soal: C
 
 #include <iostream>
 #include <vector>
